@@ -1,0 +1,1 @@
+This repository demonstrates a common error in DApps that incorrectly assumes the presence of the 'ethereum' object implies MetaMask. The bug.js file showcases the faulty code, while bugSolution.js provides a corrected version that accounts for other potential wallets.
